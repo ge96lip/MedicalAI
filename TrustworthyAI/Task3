@@ -1,0 +1,9 @@
+a) Why might this dataset be challenging to train a typical model on?
+
+Label Uncertainty: CheXpert labels are derived from clinical reports, which may not always be clear-cut or vary depending on the annotator (inter- and intra-annotator variablity). The dataset contains many "uncertain" labels, which can make training more challenging (https://paperswithcode.com/dataset/chexpert).
+
+Class Imbalance: Some classes are more frequently represented than others, as certain findings might be rare in the dataset compared to others. This can lead to difficulties in learning the minority classes effectively.
+
+Inter-class Relationships: Some labels may co-occur more frequently than others, and the relationships between findings can be complex. Modeling these dependencies accurately is challenging.
+
+Data Variability: Medical images can exhibit significant variability due to differences in acquisition devices, settings, and patient conditions. This variability can make it hard for a model to generalize effectively.
