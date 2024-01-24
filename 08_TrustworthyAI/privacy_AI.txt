@@ -1,0 +1,575 @@
+
+ ========== 256 ========== 
+
+
+===== With DP level1 =====
+Epoch: 100%
+10/10 [39:52<00:00, 272.60s/epoch]
+Training Epoch 01 	Loss: 1.210967 | Acc: 74.914979 | ε = 0.16
+Training Epoch 02 	Loss: 1.107841 | Acc: 74.712776 | ε = 0.21
+Training Epoch 03 	Loss: 1.020322 | Acc: 73.726103 | ε = 0.26
+Training Epoch 04 	Loss: 0.832068 | Acc: 74.164195 | ε = 0.31
+Training Epoch 05 	Loss: 0.595246 | Acc: 76.001467 | ε = 0.34
+Training Epoch 06 	Loss: 0.421580 | Acc: 84.455232 | ε = 0.38
+Training Epoch 07 	Loss: 0.274722 | Acc: 90.069222 | ε = 0.41
+Training Epoch 08 	Loss: 0.237665 | Acc: 92.119280 | ε = 0.44
+Training Epoch 09 	Loss: 0.223401 | Acc: 92.297204 | ε = 0.47
+Training Epoch 10 	Loss: 0.213418 | Acc: 92.575034 | ε = 0.50
+
+Training Time 		2392.24 seconds
+Test Set 		Loss: 0.764895 | Acc: 80.357143 
+
+
+===== With DP level2 =====
+Epoch: 100%
+10/10 [36:28<00:00, 227.60s/epoch]
+Training Epoch 01 	Loss: 1.591813 | Acc: 70.757053 | ε = 1.74
+Training Epoch 02 	Loss: 0.320537 | Acc: 89.829855 | ε = 2.12
+Training Epoch 03 	Loss: 0.214843 | Acc: 93.920674 | ε = 2.43
+Training Epoch 04 	Loss: 0.211070 | Acc: 94.297114 | ε = 2.70
+Training Epoch 05 	Loss: 0.196052 | Acc: 94.872199 | ε = 2.95
+Training Epoch 06 	Loss: 0.194592 | Acc: 94.857343 | ε = 3.18
+Training Epoch 07 	Loss: 0.210812 | Acc: 94.357093 | ε = 3.40
+Training Epoch 08 	Loss: 0.186819 | Acc: 95.459769 | ε = 3.61
+Training Epoch 09 	Loss: 0.194987 | Acc: 95.282663 | ε = 3.80
+Training Epoch 10 	Loss: 0.166733 | Acc: 95.905722 | ε = 3.99
+
+Training Time 		2188.93 seconds
+Test Set 		Loss: 0.925691 | Acc: 84.114583 
+
+===== With DP level3 =====
+Epoch: 100%
+10/10 [55:01<00:00, 340.05s/epoch]
+Training Epoch 01   Loss: 1.815729 | Acc: 69.170469 | ε = 4.26
+Training Epoch 02   Loss: 0.424088 | Acc: 87.295803 | ε = 5.09
+Training Epoch 03   Loss: 0.235408 | Acc: 94.283889 | ε = 5.75
+Training Epoch 04   Loss: 0.233488 | Acc: 94.422376 | ε = 6.32
+Training Epoch 05   Loss: 0.201091 | Acc: 95.168884 | ε = 6.84
+Training Epoch 06   Loss: 0.180391 | Acc: 95.519928 | ε = 7.32
+Training Epoch 07   Loss: 0.192494 | Acc: 95.738617 | ε = 7.77
+Training Epoch 08   Loss: 0.214381 | Acc: 95.212228 | ε = 8.20
+Training Epoch 09   Loss: 0.158607 | Acc: 96.538430 | ε = 8.60
+Training Epoch 10   Loss: 0.201389 | Acc: 95.345264 | ε = 9.00
+
+Training Time       3301.21 seconds
+Test Set        Loss: 1.211817 | Acc: 80.617560 
+
+
+
+
+ ========== 128 ========== 
+
+
+===== With DP level1 =====
+Epoch: 100%
+10/10 [1:04:42<00:00, 385.74s/epoch]
+Training Epoch 01 	Loss: 1.212237 | Acc: 73.724069 | ε = 0.16
+Training Epoch 02 	Loss: 1.064710 | Acc: 75.302563 | ε = 0.21
+Training Epoch 03 	Loss: 0.903059 | Acc: 73.566270 | ε = 0.26
+Training Epoch 04 	Loss: 0.696871 | Acc: 74.641701 | ε = 0.30
+Training Epoch 05 	Loss: 0.448312 | Acc: 81.929530 | ε = 0.34
+Training Epoch 06 	Loss: 0.350402 | Acc: 87.815500 | ε = 0.37
+Training Epoch 07 	Loss: 0.260193 | Acc: 91.153575 | ε = 0.41
+Training Epoch 08 	Loss: 0.269033 | Acc: 91.685052 | ε = 0.44
+Training Epoch 09 	Loss: 0.233126 | Acc: 92.154095 | ε = 0.46
+Training Epoch 10 	Loss: 0.243560 | Acc: 91.779010 | ε = 0.49
+
+Training Time 		3882.28 seconds
+Test Set 		Loss: 0.668179 | Acc: 80.892857 
+
+===== With DP level2 =====
+Epoch: 100%
+10/10 [1:02:02<00:00, 379.21s/epoch]
+Training Epoch 01 	Loss: 0.914307 | Acc: 78.972581 | ε = 1.98
+Training Epoch 02 	Loss: 0.240382 | Acc: 93.350514 | ε = 2.31
+Training Epoch 03 	Loss: 0.197550 | Acc: 94.370378 | ε = 2.58
+Training Epoch 04 	Loss: 0.206217 | Acc: 94.525474 | ε = 2.82
+Training Epoch 05 	Loss: 0.208268 | Acc: 94.624891 | ε = 3.04
+Training Epoch 06 	Loss: 0.227275 | Acc: 94.160756 | ε = 3.25
+Training Epoch 07 	Loss: 0.193556 | Acc: 95.284424 | ε = 3.45
+Training Epoch 08 	Loss: 0.193343 | Acc: 94.787657 | ε = 3.64
+Training Epoch 09 	Loss: 0.184957 | Acc: 95.381599 | ε = 3.82
+Training Epoch 10 	Loss: 0.204319 | Acc: 94.709990 | ε = 4.00
+
+Training Time 		3722.81 seconds
+Test Set 		Loss: 1.142643 | Acc: 81.205357 
+
+===== With DP level3 =====
+Epoch: 100%
+10/10 [14:50<00:00, 84.37s/epoch]
+Training Epoch 01 	Loss: 0.994770 | Acc: 79.146334 | ε = 4.57
+Training Epoch 02 	Loss: 0.228176 | Acc: 93.122894 | ε = 5.35
+Training Epoch 03 	Loss: 0.216438 | Acc: 94.511725 | ε = 5.97
+Training Epoch 04 	Loss: 0.188457 | Acc: 95.089670 | ε = 6.51
+Training Epoch 05 	Loss: 0.204487 | Acc: 94.619731 | ε = 7.00
+Training Epoch 06 	Loss: 0.187448 | Acc: 95.444197 | ε = 7.44
+Training Epoch 07 	Loss: 0.194290 | Acc: 95.351281 | ε = 7.86
+Training Epoch 08 	Loss: 0.153054 | Acc: 96.161351 | ε = 8.26
+Training Epoch 09 	Loss: 0.174030 | Acc: 95.822144 | ε = 8.63
+Training Epoch 10 	Loss: 0.158834 | Acc: 96.165950 | ε = 9.00
+
+Training Time 		890.55 seconds
+Test Set 		Loss: 0.932099 | Acc: 83.370536 
+
+
+
+ ========== 64 ========== 
+
+
+===== With DP level1 =====
+Epoch: 100%
+10/10 [26:00<00:00, 174.49s/epoch]
+Training Epoch 01 	Loss: 1.154845 | Acc: 73.337346 | ε = 0.16
+Training Epoch 02 	Loss: 0.991255 | Acc: 74.220985 | ε = 0.21
+Training Epoch 03 	Loss: 0.794071 | Acc: 75.004636 | ε = 0.26
+Training Epoch 04 	Loss: 0.627301 | Acc: 75.480751 | ε = 0.31
+Training Epoch 05 	Loss: 0.438806 | Acc: 82.136843 | ε = 0.34
+Training Epoch 06 	Loss: 0.337268 | Acc: 87.364124 | ε = 0.38
+Training Epoch 07 	Loss: 0.267215 | Acc: 90.785029 | ε = 0.41
+Training Epoch 08 	Loss: 0.243852 | Acc: 92.101771 | ε = 0.44
+Training Epoch 09 	Loss: 0.227102 | Acc: 92.285371 | ε = 0.47
+Training Epoch 10 	Loss: 0.242212 | Acc: 91.813996 | ε = 0.49
+
+Training Time 		1560.89 seconds
+Test Set 		Loss: 0.876767 | Acc: 75.416667 
+
+===== With DP level2 =====
+Epoch: 100%
+10/10 [48:17<00:00, 296.04s/epoch]
+Training Epoch 01 	Loss: 0.674706 | Acc: 80.762603 | ε = 2.29
+Training Epoch 02 	Loss: 0.231000 | Acc: 92.630143 | ε = 2.58
+Training Epoch 03 	Loss: 0.189161 | Acc: 94.017755 | ε = 2.81
+Training Epoch 04 	Loss: 0.201325 | Acc: 94.619413 | ε = 3.02
+Training Epoch 05 	Loss: 0.209814 | Acc: 94.158057 | ε = 3.21
+Training Epoch 06 	Loss: 0.185231 | Acc: 94.577914 | ε = 3.39
+Training Epoch 07 	Loss: 0.165663 | Acc: 95.022349 | ε = 3.56
+Training Epoch 08 	Loss: 0.192095 | Acc: 94.643877 | ε = 3.73
+Training Epoch 09 	Loss: 0.184182 | Acc: 94.797498 | ε = 3.88
+Training Epoch 10 	Loss: 0.192436 | Acc: 95.171844 | ε = 4.04
+
+Training Time 		2897.25 seconds
+Test Set 		Loss: 0.971942 | Acc: 81.875000 
+
+===== With DP level3 =====
+Epoch: 100%
+10/10 [1:42:18<00:00, 692.09s/epoch]
+Training Epoch 01 	Loss: 1.723913 | Acc: 71.840938 | ε = 4.26
+Training Epoch 02 	Loss: 0.393171 | Acc: 88.548644 | ε = 5.09
+Training Epoch 03 	Loss: 0.208835 | Acc: 94.389611 | ε = 5.75
+Training Epoch 04 	Loss: 0.243192 | Acc: 93.968228 | ε = 6.32
+Training Epoch 05 	Loss: 0.219192 | Acc: 94.886559 | ε = 6.84
+Training Epoch 06 	Loss: 0.193264 | Acc: 95.461154 | ε = 7.32
+Training Epoch 07 	Loss: 0.174646 | Acc: 95.575095 | ε = 7.77
+Training Epoch 08 	Loss: 0.192411 | Acc: 95.498759 | ε = 8.20
+Training Epoch 09 	Loss: 0.205574 | Acc: 95.434538 | ε = 8.60
+Training Epoch 10 	Loss: 0.159306 | Acc: 96.217467 | ε = 9.00
+
+Training Time 		6138.37 seconds
+Test Set 		Loss: 0.968425 | Acc: 84.114583 
+
+
+
+
+ ========== resnet34 ========== 
+
+
+===== With DP level1 =====
+Epoch: 100%
+10/10 [1:26:16<00:00, 551.16s/epoch]
+Training Epoch 01 	Loss: 1.455540 | Acc: 72.839052 | ε = 0.16
+Training Epoch 02 	Loss: 1.257460 | Acc: 74.957844 | ε = 0.21
+Training Epoch 03 	Loss: 1.198743 | Acc: 74.614915 | ε = 0.26
+Training Epoch 04 	Loss: 1.058731 | Acc: 74.915297 | ε = 0.30
+Training Epoch 05 	Loss: 0.863625 | Acc: 73.478578 | ε = 0.34
+Training Epoch 06 	Loss: 0.647454 | Acc: 74.794320 | ε = 0.37
+Training Epoch 07 	Loss: 0.518655 | Acc: 80.790543 | ε = 0.41
+Training Epoch 08 	Loss: 0.391066 | Acc: 86.257473 | ε = 0.44
+Training Epoch 09 	Loss: 0.343544 | Acc: 88.430256 | ε = 0.46
+Training Epoch 10 	Loss: 0.288206 | Acc: 90.188137 | ε = 0.49
+
+Training Time 		5176.87 seconds
+Test Set 		Loss: 0.666824 | Acc: 80.379464 
+
+
+===== With DP level2 =====
+Epoch: 100%
+10/10 [2:07:08<00:00, 750.69s/epoch]
+Training Epoch 01 	Loss: 1.918170 | Acc: 73.051543 | ε = 1.74
+Training Epoch 02 	Loss: 1.212611 | Acc: 75.196280 | ε = 2.12
+Training Epoch 03 	Loss: 0.281033 | Acc: 92.580871 | ε = 2.43
+Training Epoch 04 	Loss: 0.237160 | Acc: 94.439915 | ε = 2.70
+Training Epoch 05 	Loss: 0.250625 | Acc: 94.063033 | ε = 2.95
+Training Epoch 06 	Loss: 0.227205 | Acc: 94.649121 | ε = 3.18
+Training Epoch 07 	Loss: 0.219463 | Acc: 94.914955 | ε = 3.40
+Training Epoch 08 	Loss: 0.226900 | Acc: 94.922860 | ε = 3.61
+Training Epoch 09 	Loss: 0.185499 | Acc: 95.742959 | ε = 3.80
+Training Epoch 10 	Loss: 0.226253 | Acc: 94.963659 | ε = 3.99
+
+Training Time 		7629.04 seconds
+Test Set 		Loss: 0.928545 | Acc: 83.072917 
+
+===== With DP level3 =====
+Epoch: 100%
+10/10 [1:47:27<00:00, 660.91s/epoch]
+Training Epoch 01 	Loss: 2.070636 | Acc: 73.524336 | ε = 4.26
+Training Epoch 02 	Loss: 1.265989 | Acc: 74.216246 | ε = 5.09
+Training Epoch 03 	Loss: 0.349339 | Acc: 90.628885 | ε = 5.75
+Training Epoch 04 	Loss: 0.269412 | Acc: 93.931942 | ε = 6.32
+Training Epoch 05 	Loss: 0.238159 | Acc: 94.772765 | ε = 6.84
+Training Epoch 06 	Loss: 0.221897 | Acc: 95.097371 | ε = 7.32
+Training Epoch 07 	Loss: 0.208748 | Acc: 95.770681 | ε = 7.77
+Training Epoch 08 	Loss: 0.216766 | Acc: 95.316235 | ε = 8.20
+Training Epoch 09 	Loss: 0.183091 | Acc: 95.815597 | ε = 8.60
+Training Epoch 10 	Loss: 0.206137 | Acc: 95.541217 | ε = 9.00
+
+Training Time 		6447.23 seconds
+Test Set 		Loss: 1.139144 | Acc: 82.477679 
+
+
+ ========== MAX_GRAD_NORM = 0.5 ========== 
+
+
+===== With DP level1 =====
+Epoch: 100%
+10/10 [17:17<00:00, 108.07s/epoch]
+Training Epoch 01 	Loss: 1.440172 | Acc: 74.572958 | ε = 0.16
+Training Epoch 02 	Loss: 1.225643 | Acc: 74.692317 | ε = 0.22
+Training Epoch 03 	Loss: 0.904915 | Acc: 74.742343 | ε = 0.26
+Training Epoch 04 	Loss: 0.660181 | Acc: 76.500822 | ε = 0.31
+Training Epoch 05 	Loss: 0.480501 | Acc: 83.408803 | ε = 0.34
+Training Epoch 06 	Loss: 0.333758 | Acc: 88.449000 | ε = 0.38
+Training Epoch 07 	Loss: 0.227049 | Acc: 92.089599 | ε = 0.41
+Training Epoch 08 	Loss: 0.212051 | Acc: 92.595658 | ε = 0.44
+Training Epoch 09 	Loss: 0.214055 | Acc: 93.202124 | ε = 0.47
+Training Epoch 10 	Loss: 0.198938 | Acc: 93.479518 | ε = 0.49
+
+Training Time 		1037.10 seconds
+Test Set 		Loss: 0.693158 | Acc: 83.348214
+
+===== With DP level2 =====
+Epoch: 100%
+10/10 [20:23<00:00, 115.02s/epoch]
+Training Epoch 01 	Loss: 0.901950 | Acc: 81.091009 | ε = 1.98
+Training Epoch 02 	Loss: 0.254909 | Acc: 93.500006 | ε = 2.31
+Training Epoch 03 	Loss: 0.281594 | Acc: 93.594996 | ε = 2.58
+Training Epoch 04 	Loss: 0.242646 | Acc: 94.316373 | ε = 2.82
+Training Epoch 05 	Loss: 0.234872 | Acc: 94.421770 | ε = 3.04
+Training Epoch 06 	Loss: 0.232650 | Acc: 94.932200 | ε = 3.25
+Training Epoch 07 	Loss: 0.215262 | Acc: 94.819351 | ε = 3.45
+Training Epoch 08 	Loss: 0.217432 | Acc: 94.919199 | ε = 3.64
+Training Epoch 09 	Loss: 0.164604 | Acc: 96.077986 | ε = 3.82
+Training Epoch 10 	Loss: 0.197254 | Acc: 95.406924 | ε = 4.00
+
+Training Time 		1223.82 seconds
+Test Set 		Loss: 1.126416 | Acc: 82.857143 
+
+
+===== With DP level3 =====
+Epoch: 100%
+10/10 [48:43<00:00, 292.80s/epoch]
+Training Epoch 01 	Loss: 1.782303 | Acc: 72.350231 | ε = 4.26
+Training Epoch 02 	Loss: 0.289944 | Acc: 91.913433 | ε = 5.09
+Training Epoch 03 	Loss: 0.269135 | Acc: 94.075043 | ε = 5.75
+Training Epoch 04 	Loss: 0.234353 | Acc: 94.603674 | ε = 6.32
+Training Epoch 05 	Loss: 0.203162 | Acc: 95.371011 | ε = 6.84
+Training Epoch 06 	Loss: 0.207649 | Acc: 95.562355 | ε = 7.32
+Training Epoch 07 	Loss: 0.197224 | Acc: 95.606469 | ε = 7.77
+Training Epoch 08 	Loss: 0.201211 | Acc: 95.567608 | ε = 8.20
+Training Epoch 09 	Loss: 0.188878 | Acc: 95.786384 | ε = 8.60
+Training Epoch 10 	Loss: 0.209565 | Acc: 95.748765 | ε = 9.00
+
+Training Time 		2923.50 seconds
+Test Set 		Loss: 1.113981 | Acc: 83.463542 
+
+ ========== resnet34 ========== 
+
+
+===== With DP level1 =====
+Epoch: 100%
+10/10 [1:52:29<00:00, 690.66s/epoch]
+Training Epoch 01 	Loss: 1.720954 | Acc: 73.173165 | ε = 0.16
+Training Epoch 02 	Loss: 1.487995 | Acc: 74.417002 | ε = 0.21
+Training Epoch 03 	Loss: 1.330943 | Acc: 74.322277 | ε = 0.26
+Training Epoch 04 	Loss: 1.205837 | Acc: 74.103695 | ε = 0.30
+Training Epoch 05 	Loss: 1.007672 | Acc: 73.585421 | ε = 0.34
+Training Epoch 06 	Loss: 0.792871 | Acc: 75.824536 | ε = 0.37
+Training Epoch 07 	Loss: 0.616780 | Acc: 79.546628 | ε = 0.41
+Training Epoch 08 	Loss: 0.437047 | Acc: 85.911829 | ε = 0.44
+Training Epoch 09 	Loss: 0.291033 | Acc: 90.971497 | ε = 0.46
+Training Epoch 10 	Loss: 0.328644 | Acc: 90.898818 | ε = 0.49
+
+Training Time 		6749.47 seconds
+Test Set 		Loss: 1.056699 | Acc: 77.678571 
+
+
+### higher delta 
+In this scenario, while each individual query or data extraction from the data is heavily protected (low ε), the overall system has a higher probability (higher δ) of failing to maintain its privacy guarantees at some point. This could mean that, although the system is very private on a per-query basis, there's a non-negligible chance that privacy could be compromised due to the higher delta.
+
+Privacy-Utility Trade-off: A lower epsilon generally means more noise is added to the data or model, leading to potentially lower utility or accuracy. However, it provides stronger privacy for each operation.
+
+
+
+
+ ========== DELTA = 1e-3 ========== 
+
+
+===== With DP level1 =====
+Epoch: 100%
+10/10 [56:02<00:00, 285.73s/epoch]
+Training Epoch 01 	Loss: 1.241075 | Acc: 72.842709 | ε = 0.13
+Training Epoch 02 	Loss: 0.721248 | Acc: 74.787415 | ε = 0.20
+Training Epoch 03 	Loss: 0.456404 | Acc: 83.262771 | ε = 0.25
+Training Epoch 04 	Loss: 0.234088 | Acc: 91.370997 | ε = 0.29
+Training Epoch 05 	Loss: 0.235010 | Acc: 92.193770 | ε = 0.33
+Training Epoch 06 	Loss: 0.225563 | Acc: 93.044671 | ε = 0.37
+Training Epoch 07 	Loss: 0.227519 | Acc: 93.049641 | ε = 0.40
+Training Epoch 08 	Loss: 0.199974 | Acc: 93.789066 | ε = 0.43
+Training Epoch 09 	Loss: 0.206292 | Acc: 94.107136 | ε = 0.46
+Training Epoch 10 	Loss: 0.223932 | Acc: 93.626451 | ε = 0.49
+
+Training Time 		3362.42 seconds
+Test Set 		Loss: 0.643284 | Acc: 85.803571 
+
+===== With DP level2 =====
+Epoch: 100%
+10/10 [46:41<00:00, 286.20s/epoch]
+Training Epoch 01 	Loss: 0.898810 | Acc: 82.216253 | ε = 1.71
+Training Epoch 02 	Loss: 0.235790 | Acc: 93.417179 | ε = 2.09
+Training Epoch 03 	Loss: 0.205141 | Acc: 94.852816 | ε = 2.40
+Training Epoch 04 	Loss: 0.188469 | Acc: 94.849771 | ε = 2.68
+Training Epoch 05 	Loss: 0.186879 | Acc: 95.107794 | ε = 2.93
+Training Epoch 06 	Loss: 0.167268 | Acc: 95.474214 | ε = 3.17
+Training Epoch 07 	Loss: 0.144047 | Acc: 95.961690 | ε = 3.39
+Training Epoch 08 	Loss: 0.153834 | Acc: 96.433958 | ε = 3.60
+Training Epoch 09 	Loss: 0.200877 | Acc: 95.399733 | ε = 3.80
+Training Epoch 10 	Loss: 0.168044 | Acc: 95.687504 | ε = 4.00
+
+Training Time 		2801.20 seconds
+Test Set 		Loss: 0.692809 | Acc: 86.540179 
+
+===== With DP level3 =====
+Epoch: 100%
+10/10 [1:35:07<00:00, 534.88s/epoch]
+Training Epoch 01 	Loss: 1.646363 | Acc: 72.974240 | ε = 3.67
+Training Epoch 02 	Loss: 0.370093 | Acc: 88.983334 | ε = 4.59
+Training Epoch 03 	Loss: 0.257920 | Acc: 94.309616 | ε = 5.32
+Training Epoch 04 	Loss: 0.229233 | Acc: 94.867948 | ε = 5.96
+Training Epoch 05 	Loss: 0.199644 | Acc: 95.184875 | ε = 6.55
+Training Epoch 06 	Loss: 0.192992 | Acc: 95.442623 | ε = 7.10
+Training Epoch 07 	Loss: 0.183541 | Acc: 95.798470 | ε = 7.60
+Training Epoch 08 	Loss: 0.144247 | Acc: 96.316773 | ε = 8.09
+Training Epoch 09 	Loss: 0.168614 | Acc: 96.143589 | ε = 8.54
+Training Epoch 10 	Loss: 0.174880 | Acc: 95.785619 | ε = 9.00
+
+Training Time 		5708.05 seconds
+Test Set 		Loss: 0.954072 | Acc: 84.486607 
+
+
+ ========== squeezenet ========== 
+
+
+===== With DP level1 =====
+Epoch: 100%
+10/10 [00:22<00:00, 2.10s/epoch]
+Training Epoch 01 	Loss: 0.996843 | Acc: 71.066042 | ε = 0.16
+Training Epoch 02 	Loss: 1.264357 | Acc: 73.679868 | ε = 0.21
+Training Epoch 03 	Loss: 1.204857 | Acc: 73.941828 | ε = 0.26
+Training Epoch 04 	Loss: 1.238328 | Acc: 73.593371 | ε = 0.31
+Training Epoch 05 	Loss: 1.131197 | Acc: 75.497926 | ε = 0.34
+Training Epoch 06 	Loss: 1.200623 | Acc: 73.324450 | ε = 0.38
+Training Epoch 07 	Loss: 1.147732 | Acc: 74.440100 | ε = 0.41
+Training Epoch 08 	Loss: 1.147477 | Acc: 74.074552 | ε = 0.44
+Training Epoch 09 	Loss: 1.123292 | Acc: 74.802700 | ε = 0.47
+Training Epoch 10 	Loss: 1.114557 | Acc: 73.903815 | ε = 0.50
+
+Training Time 		22.28 seconds
+Test Set 		Loss: 1.617919 | Acc: 63.169643 
+
+===== With DP level2 =====
+Epoch: 100%
+10/10 [00:22<00:00, 2.26s/epoch]
+Training Epoch 01 	Loss: 1.825012 | Acc: 71.490237 | ε = 1.80
+Training Epoch 02 	Loss: 1.126607 | Acc: 73.718245 | ε = 2.17
+Training Epoch 03 	Loss: 1.013803 | Acc: 73.775520 | ε = 2.48
+Training Epoch 04 	Loss: 0.866168 | Acc: 73.609078 | ε = 2.75
+Training Epoch 05 	Loss: 0.815436 | Acc: 73.513391 | ε = 3.00
+Training Epoch 06 	Loss: 0.694618 | Acc: 73.839038 | ε = 3.23
+Training Epoch 07 	Loss: 0.666298 | Acc: 77.450029 | ε = 3.45
+Training Epoch 08 	Loss: 0.505331 | Acc: 83.256242 | ε = 3.65
+Training Epoch 09 	Loss: 0.481479 | Acc: 84.621311 | ε = 3.85
+Training Epoch 10 	Loss: 0.496032 | Acc: 86.681432 | ε = 4.03
+
+Training Time 		22.73 seconds
+Test Set 		Loss: 0.929762 | Acc: 80.133929 
+
+===== With DP level3 =====
+Epoch: 100%
+10/10 [00:23<00:00, 2.32s/epoch]
+Training Epoch 01 	Loss: 2.346261 | Acc: 73.388155 | ε = 5.46
+Training Epoch 02 	Loss: 1.104042 | Acc: 73.483781 | ε = 6.19
+Training Epoch 03 	Loss: 0.980081 | Acc: 72.603969 | ε = 6.79
+Training Epoch 04 	Loss: 0.743667 | Acc: 74.534412 | ε = 7.32
+Training Epoch 05 	Loss: 0.575983 | Acc: 73.815763 | ε = 7.80
+Training Epoch 06 	Loss: 0.557647 | Acc: 74.204406 | ε = 8.25
+Training Epoch 07 	Loss: 0.649865 | Acc: 80.418956 | ε = 8.68
+Training Epoch 08 	Loss: 0.494860 | Acc: 85.371498 | ε = 9.08
+Training Epoch 09 	Loss: 0.601603 | Acc: 86.852201 | ε = 9.47
+Training Epoch 10 	Loss: 0.685748 | Acc: 87.348618 | ε = 9.84
+
+Training Time 		23.21 seconds
+Test Set 		Loss: 0.752542 | Acc: 85.677083 
+
+
+alexnet 
+RuntimeError: CUDA out of memory. Tried to allocate 9.00 GiB (GPU 0; 6.00 GiB total capacity; 13.44 GiB already allocated; 0 bytes free; 17.31 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+
+vgg11
+RuntimeError: CUDA out of memory. Tried to allocate 24.50 GiB (GPU 0; 6.00 GiB total capacity; 11.90 GiB already allocated; 0 bytes free; 13.32 GiB reserved in total by PyTorch) 
+
+ ========== ADAM ========== 
+
+
+===== With DP level1 =====
+Epoch: 100%
+10/10 [1:03:28<00:00, 400.09s/epoch]
+Training Epoch 01 	Loss: 1.117845 | Acc: 68.482087 | ε = 0.16
+Training Epoch 02 	Loss: 1.633926 | Acc: 73.622631 | ε = 0.21
+Training Epoch 03 	Loss: 1.087452 | Acc: 74.766633 | ε = 0.26
+Training Epoch 04 	Loss: 1.254558 | Acc: 73.889295 | ε = 0.30
+Training Epoch 05 	Loss: 1.039346 | Acc: 74.880181 | ε = 0.34
+Training Epoch 06 	Loss: 0.974619 | Acc: 74.012714 | ε = 0.38
+Training Epoch 07 	Loss: 0.934216 | Acc: 73.953814 | ε = 0.41
+Training Epoch 08 	Loss: 0.773739 | Acc: 74.263780 | ε = 0.44
+Training Epoch 09 	Loss: 0.676576 | Acc: 74.430200 | ε = 0.47
+Training Epoch 10 	Loss: 0.564385 | Acc: 76.742800 | ε = 0.49
+
+Training Time 		3808.09 seconds
+Test Set 		Loss: 1.124333 | Acc: 65.806362 
+
+===== With DP level2 =====
+
+Training Epoch 01 	Loss: 1.414479 | Acc: 69.154953 | ε = 1.59
+Training Epoch 02 	Loss: 1.148856 | Acc: 74.581408 | ε = 2.01
+Training Epoch 03 	Loss: 0.758978 | Acc: 75.012369 | ε = 2.34
+Training Epoch 04 	Loss: 0.331668 | Acc: 87.848146 | ε = 2.64
+Training Epoch 05 	Loss: 0.276413 | Acc: 92.813240 | ε = 2.91
+Training Epoch 06 	Loss: 0.327226 | Acc: 92.844337 | ε = 3.15
+Training Epoch 07 	Loss: 0.278050 | Acc: 94.361741 | ε = 3.38
+Training Epoch 08 	Loss: 0.280633 | Acc: 94.193449 | ε = 3.60
+Training Epoch 09 	Loss: 0.278103 | Acc: 94.428482 | ε = 3.80
+Training Epoch 10 	Loss: 0.249448 | Acc: 94.528578 | ε = 4.00
+
+Training Time 		1748.01 seconds
+Test Set 		Loss: 0.752156 | Acc: 84.430804 
+
+
+===== With DP level3 =====
+Epoch: 100%
+10/10 [1:07:54<00:00, 413.81s/epoch]
+Training Epoch 01 	Loss: 1.246522 | Acc: 69.833806 | ε = 5.28
+Training Epoch 02 	Loss: 0.527532 | Acc: 79.835615 | ε = 6.04
+Training Epoch 03 	Loss: 0.251207 | Acc: 92.954937 | ε = 6.66
+Training Epoch 04 	Loss: 0.311971 | Acc: 93.771164 | ε = 7.22
+Training Epoch 05 	Loss: 0.276489 | Acc: 94.196557 | ε = 7.72
+Training Epoch 06 	Loss: 0.257920 | Acc: 94.579469 | ε = 8.20
+Training Epoch 07 	Loss: 0.196093 | Acc: 95.531834 | ε = 8.65
+Training Epoch 08 	Loss: 0.182241 | Acc: 96.069818 | ε = 9.07
+Training Epoch 09 	Loss: 0.186773 | Acc: 96.124488 | ε = 9.48
+Training Epoch 10 	Loss: 0.174753 | Acc: 96.104474 | ε = 9.87
+
+Training Time 		4074.49 seconds
+Test Set 		Loss: 1.031065 | Acc: 83.272879 
+
+========== 0.01 ========== 
+
+
+===== With DP level1 =====
+Epoch: 100%
+10/10 [30:58<00:00, 209.42s/epoch]
+Training Epoch 01 	Loss: 1.280295 | Acc: 72.798109 | ε = 0.16
+Training Epoch 02 	Loss: 1.193358 | Acc: 73.541042 | ε = 0.21
+Training Epoch 03 	Loss: 0.985006 | Acc: 74.490384 | ε = 0.26
+Training Epoch 04 	Loss: 0.711950 | Acc: 74.915551 | ε = 0.31
+Training Epoch 05 	Loss: 0.565260 | Acc: 77.818034 | ε = 0.34
+Training Epoch 06 	Loss: 0.355490 | Acc: 86.908466 | ε = 0.38
+Training Epoch 07 	Loss: 0.271878 | Acc: 90.139028 | ε = 0.41
+Training Epoch 08 	Loss: 0.264738 | Acc: 91.082754 | ε = 0.44
+Training Epoch 09 	Loss: 0.214764 | Acc: 92.053178 | ε = 0.47
+Training Epoch 10 	Loss: 0.220743 | Acc: 92.087882 | ε = 0.50
+
+Training Time 		1858.59 seconds
+Test Set 		Loss: 0.705071 | Acc: 79.910714 
+
+===== With DP level2 =====
+Epoch: 100%
+10/10 [1:31:55<00:00, 469.69s/epoch]
+Training Epoch 01 	Loss: 1.706110 | Acc: 73.245597 | ε = 1.80
+Training Epoch 02 	Loss: 0.399441 | Acc: 86.433097 | ε = 2.17
+Training Epoch 03 	Loss: 0.250272 | Acc: 93.438776 | ε = 2.48
+Training Epoch 04 	Loss: 0.224284 | Acc: 94.364125 | ε = 2.75
+Training Epoch 05 	Loss: 0.211738 | Acc: 94.517062 | ε = 3.00
+Training Epoch 06 	Loss: 0.220012 | Acc: 94.943515 | ε = 3.23
+Training Epoch 07 	Loss: 0.209859 | Acc: 95.263728 | ε = 3.45
+Training Epoch 08 	Loss: 0.186656 | Acc: 95.376090 | ε = 3.65
+Training Epoch 09 	Loss: 0.192528 | Acc: 95.473408 | ε = 3.85
+Training Epoch 10 	Loss: 0.189632 | Acc: 95.434391 | ε = 4.03
+
+Training Time 		5515.84 seconds
+Test Set 		Loss: 1.170442 | Acc: 79.334077 
+
+===== With DP level3 =====
+Epoch: 100%
+10/10 [22:02<00:00, 140.16s/epoch]
+Training Epoch 01 	Loss: 1.925240 | Acc: 72.079229 | ε = 4.26
+Training Epoch 02 	Loss: 0.449726 | Acc: 86.918919 | ε = 5.09
+Training Epoch 03 	Loss: 0.251692 | Acc: 93.612236 | ε = 5.75
+Training Epoch 04 	Loss: 0.208678 | Acc: 94.654734 | ε = 6.32
+Training Epoch 05 	Loss: 0.232667 | Acc: 94.581726 | ε = 6.84
+Training Epoch 06 	Loss: 0.207453 | Acc: 95.390143 | ε = 7.32
+Training Epoch 07 	Loss: 0.173007 | Acc: 95.476572 | ε = 7.77
+Training Epoch 08 	Loss: 0.178888 | Acc: 95.444501 | ε = 8.20
+Training Epoch 09 	Loss: 0.182836 | Acc: 95.688786 | ε = 8.60
+Training Epoch 10 	Loss: 0.208031 | Acc: 95.168198 | ε = 9.00
+
+Training Time 		1322.70 seconds
+Test Set 		Loss: 0.944782 | Acc: 84.709821 
+
+ ========== 0.0001 ========== 
+
+
+===== With DP level1 =====
+Epoch: 100%
+10/10 [27:32<00:00, 161.57s/epoch]
+Training Epoch 01 	Loss: 1.335607 | Acc: 71.791420 | ε = 0.16
+Training Epoch 02 	Loss: 1.159435 | Acc: 74.026861 | ε = 0.21
+Training Epoch 03 	Loss: 0.852616 | Acc: 73.120730 | ε = 0.26
+Training Epoch 04 	Loss: 0.622599 | Acc: 74.351145 | ε = 0.31
+Training Epoch 05 	Loss: 0.475623 | Acc: 81.056603 | ε = 0.34
+Training Epoch 06 	Loss: 0.368885 | Acc: 86.780325 | ε = 0.38
+Training Epoch 07 	Loss: 0.271753 | Acc: 90.709477 | ε = 0.41
+Training Epoch 08 	Loss: 0.249495 | Acc: 91.586975 | ε = 0.44
+Training Epoch 09 	Loss: 0.229783 | Acc: 92.251053 | ε = 0.47
+Training Epoch 10 	Loss: 0.239303 | Acc: 92.604443 | ε = 0.50
+
+Training Time 		1652.56 seconds
+Test Set 		Loss: 0.752382 | Acc: 80.171131 
+
+===== With DP level2 =====
+
+===== With DP level3 =====
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+Epoch: 100%
+10/10 [58:36<00:00, 340.45s/epoch]
+Training Epoch 01 	Loss: 1.772057 | Acc: 72.360964 | ε = 4.26
+Training Epoch 02 	Loss: 0.368597 | Acc: 88.742159 | ε = 5.09
+Training Epoch 03 	Loss: 0.222302 | Acc: 94.347050 | ε = 5.75
+Training Epoch 04 	Loss: 0.204718 | Acc: 94.857483 | ε = 6.32
+Training Epoch 05 	Loss: 0.213747 | Acc: 94.737475 | ε = 6.84
+Training Epoch 06 	Loss: 0.200728 | Acc: 95.422296 | ε = 7.32
+Training Epoch 07 	Loss: 0.193214 | Acc: 95.504290 | ε = 7.77
+Training Epoch 08 	Loss: 0.168964 | Acc: 96.095892 | ε = 8.20
+Training Epoch 09 	Loss: 0.152222 | Acc: 96.420215 | ε = 8.60
+Training Epoch 10 	Loss: 0.150192 | Acc: 96.540618 | ε = 9.00
+
+Training Time 		3516.22 seconds
+Test Set 		Loss: 0.990522 | Acc: 83.240327 
